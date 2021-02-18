@@ -3056,7 +3056,7 @@ nav#menu span.fa.fa-bars:hover {
   line-height: 24px;
   font-weight: 400;
   margin-bottom: 30px;
-  font-size: 16px;
+  font-size: 24px;
   background-color: black;
   color: #fff; 
   display: inline;
@@ -4443,7 +4443,7 @@ ul.nav-tabs li a {
     font-size: 14px;
   }
   #carousel-area .carousel-item .carousel-caption h3 {
-    font-size: 26px;
+    font-size: 40px;
   }
   #carousel-area .carousel-item .carousel-caption h5 {
     margin-bottom: 10px;
@@ -4528,10 +4528,9 @@ ul.nav-tabs li a {
     font-size: 14px;
   }
   #carousel-area .carousel-item .carousel-caption {
-    top: 5%;
   }
   #carousel-area .carousel-item .carousel-caption h3 {
-    font-size: 26px;
+    font-size: 32px;
   }
   #carousel-area .carousel-item .carousel-caption h5 {
     margin-bottom: 0px;
@@ -4636,11 +4635,11 @@ ul.nav-tabs li a {
     top: 2%;
   }
   #carousel-area .carousel-item .carousel-caption h3 {
-    font-size: 14px;
+    font-size: 32px;
   }
   #carousel-area .carousel-item .carousel-caption h5 {
     margin-bottom: 3px;
-    font-size: 12px;
+    font-size: 24px;
     line-height: 15px;
   }
   #carousel-area .carousel-item .btn-lg {

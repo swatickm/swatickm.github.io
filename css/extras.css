@@ -50,10 +50,6 @@ a a:focus {
   top: 0px;
 }
 
-.top-nav-collapse .navbar-brand img {
-  width: 65%;
-}
-
 .top-nav-collapse .navbar-nav .nav-link {
   color: #585b60 !important;
   margin-top: 0px !important;
@@ -71,9 +67,6 @@ a a:focus {
 
 .indigo {
   background: transparent;
-}
-.navbar-brand img {
-  width: 68%;
 }
 .navbar-expand-lg .navbar-nav li a:hover,
 .navbar-expand-lg .navbar-nav li .active > a,
@@ -143,9 +136,6 @@ a a:focus {
     padding: 15px 15px;
     top: 0;
   }
-  .navbar-brand img {
-    width: 75%;
-  }
   .slicknav_menu {
     display: block;
   }
@@ -166,9 +156,6 @@ a a:focus {
     position: absolute;
     padding: 7px 15px;
     top: 0;
-  }
-  .navbar-brand img {
-    width: 48%;
   }
   #mobile-menu {
     display: none;
